@@ -1,4 +1,6 @@
 Suur konflikt.
 Midagigi ei juhtunud.
+Midagigi jah juhtus.
 
   Mida teha?
+  
